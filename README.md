@@ -20,3 +20,10 @@ docker compose up
 
 Um das Notebook zu öffnen: [127.0.0.1/tree](http://127.0.0.1:8888/tree).  
 Python Notebook öffnen und _Run All Cells_ wählen.
+
+Um das Notebook zurückzusetzen muss der Docker-Container neu gestartet werden:
+
+```plaintext
+docker compose down
+docker compose up
+```
