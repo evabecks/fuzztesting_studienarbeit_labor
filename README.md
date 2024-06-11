@@ -1,6 +1,6 @@
 # Laborübung für Studienarbeit über Fuzz-Testing
 
-Dieses Repository beihnaltet eine Laborübung für Studierende, die im Rahmen der Studienarbeit bei Herrn Prof. Dr.-Ing. Falko Michael Kötter an der DHBW Stuttgart für den B.Sc. Informatik verfasst wurde.  
+Dieses Repository beinhaltet eine Laborübung für Studierende, die im Rahmen der Studienarbeit bei Herrn Prof. Dr.-Ing. Falko Michael Kötter an der DHBW Stuttgart für den B.Sc. Informatik verfasst wurde.  
 Die Laborübung soll Studierenden Fuzzing nahebringen und ein Verständnis für die Technik vermitteln.
 
 ## Start-Anleitung
